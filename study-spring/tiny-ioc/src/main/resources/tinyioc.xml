@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+		"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+    <bean id="helloWorldService" class="com.faunjoe.test.HelloWorldService">
+    	<property name="text" value="Hello World!!!"></property>
+    	<property name="referenceService" ref="referenceService"></property>
+    </bean>
+    <bean id="referenceService" class="com.faunjoe.test.ReferenceService">
+    </bean>
+    <bean class="com.faunjoe.test.SimpleBeanPostProcessor"></bean>
+</beans>

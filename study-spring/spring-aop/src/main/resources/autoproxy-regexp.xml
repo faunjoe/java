@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <!-- 原始对象 -->
+    <bean id="chromeBrowser" class="com.faunjoe.app.entity.ChromeBrowser"/>
+    <!-- 环绕增强对象 -->
+    <bean id="browserAroundAdvice" class="com.faunjoe.app.advice.BrowserAroundAdvice"/>
+    <!-- 切面 -->
+    <bean id="regexpAdvisor" class="org.springframework.aop.support.RegexpMethodPointcutAdvisor">
+        <property name="advice" ref="browserAroundAdvice"/>
+        <!-- 切入点正则表达式 -->
+        <property name="pattern" value="com.faunjoe.app.entity.ChromeBrowser.visit.*"/>
+    </bean>
+
+    <!-- 自动扫描切面代理类 -->
+    <bean class="org.springframework.aop.framework.autoproxy.DefaultAdvisorAutoProxyCreator">
+        <!--<property name="customTargetSourceCreators">-->
+        <!--<list>-->
+        <!--<bean class="org.springframework.aop.framework.autoproxy.target.QuickTargetSourceCreator"/>-->
+        <!--</list>-->
+        <!--</property>-->
+        <property name="optimize" value="true"/>
+    </bean>
+</beans>

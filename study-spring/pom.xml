@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>faunjoe.source</groupId>
+    <artifactId>study-spring</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>hand-spring-xml</module>
+        <module>hand-spring-annotation</module>
+        <module>hand-spring-annotation1</module>
+        <module>tiny-ioc</module>
+        <module>spring-xsd</module>
+        <module>spring-aop</module>
+        <module>proxy</module>
+        <module>spring-ioc-segmentfault</module>
+        <module>spring-aop-huangyong</module>
+        <module>spring-aop-atguigu</module>
+        <module>spring-tx-atguigu</module>
+        <module>spring-tx-faunjoe</module>
+        <module>spring-ioc-annotation</module>
+        <module>spring-ioc-yikun</module>
+    </modules>
+
+
+</project>

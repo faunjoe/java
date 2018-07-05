@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	http://www.springframework.org/schema/aop
+	http://www.springframework.org/schema/aop/spring-aop-3.0.xsd">
+
+    <!-- 原始对象 -->
+    <bean id="chromeBrowser" class="com.faunjoe.app.entity.ChromeBrowser"/>
+    <!-- 环绕增强对象 -->
+    <bean id="aspectjBrowserAroundAdvice" class="com.faunjoe.app.advice.AspectJBrowserAroundAdvice"/>
+
+    <!-- aspectj aop 配置 -->
+    <aop:config proxy-target-class="true">
+        <aop:pointcut id="browserPointcut"
+                      expression="execution(* com.faunjoe.app.entity.*.*(..)) and args(str,date,..)"/>
+        <aop:aspect ref="aspectjBrowserAroundAdvice">
+            <aop:around method="aroundIntercept" pointcut-ref="browserPointcut" arg-names="str,date"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

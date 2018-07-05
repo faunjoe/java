@@ -1,0 +1,3 @@
+http\://app.faunjoe.com/schema/myns/myns.xsd=com/faunjoe/app/config/spring/myns.xsd
+http\://app.faunjoe.com/schema/component/component.xsd=com/faunjoe/app/config/spring/component.xsd
+http\://app.faunjoe.com/schema/sample/sample.xsd=com/faunjoe/app/config/spring/sample.xsd

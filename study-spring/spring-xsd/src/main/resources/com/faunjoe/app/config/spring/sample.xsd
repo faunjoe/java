@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://app.faunjoe.com/schema/sample"
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+		targetNamespace="http://app.faunjoe.com/schema/sample"
+		elementFormDefault="qualified"
+		attributeFormDefault="unqualified">
+    <xsd:element name="entity">
+        <xsd:complexType>
+    		<xsd:attribute name="id" type="xsd:string" />
+    		<xsd:attribute name="class" type="xsd:string" />
+    	</xsd:complexType>
+    </xsd:element>
+</xsd:schema>
