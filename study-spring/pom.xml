@@ -23,6 +23,8 @@
         <module>spring-tx-faunjoe</module>
         <module>spring-ioc-annotation</module>
         <module>spring-ioc-yikun</module>
+        <module>spring-ioc-event</module>
+        <module>spring-factoryBean</module>
     </modules>
 
 

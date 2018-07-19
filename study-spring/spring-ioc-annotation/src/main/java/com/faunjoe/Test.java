@@ -13,9 +13,11 @@ public class Test {
     public static void main(String[] args) {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("applicationContext.xml");
 
-        UserService userService = (UserService) ctx.getBean("userService");
+        UserService userService1 = (UserService) ctx.getBean("userService");
+        //UserService userService2 = (UserService) ctx.getBean("&userService");
 
-        System.out.println(userService);
-        userService.save();
+        System.out.println(userService1);
+        //System.out.println(userService1.equals(userService2));
+        userService1.save();
     }
 }

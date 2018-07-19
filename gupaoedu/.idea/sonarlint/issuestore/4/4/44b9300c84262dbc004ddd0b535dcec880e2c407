@@ -1,0 +1,7 @@
+
+msquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(§ÏŞ8€ç³±Ê,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€ç³±Ê,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€ç³±Ê,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€ç³±Ê,
+[
+squid:S899";Do something with the "boolean" value returned by "delete".(ßµÚúÿÿÿÿ8€ç³±Ê,
