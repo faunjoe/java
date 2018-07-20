@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="00_mybatis" />
+        <module name="01_mybatis_core_properties" />
+        <module name="02_mybatis_typehandler" />
+        <module name="03_mybatis_objectfactory" />
+        <module name="04_mybatis_plugs" />
+        <module name="05_mybatis_proxy" />
+        <module name="06_mybatis_proxy_impl" />
+        <module name="07_mybatis_mapper_#and" />
+        <module name="08_mybatis_map_resultmap" />
+        <module name="09_mybatis_mapper_dynamic_sql" />
+        <module name="10_mybatis_one_to_many_1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$proxy".(ğœ÷°8èëˆ‰Ë,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ÿˆíü8èëˆ‰Ë,
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¡üÎÂ8èëˆ‰Ë,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğœ÷°8èëˆ‰Ë,
