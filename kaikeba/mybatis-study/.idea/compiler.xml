@@ -18,6 +18,10 @@
         <module name="08_mybatis_map_resultmap" />
         <module name="09_mybatis_mapper_dynamic_sql" />
         <module name="10_mybatis_one_to_many_1" />
+        <module name="11_mybatis_one_to_many_2" />
+        <module name="12_mybatis_many_to_one_1" />
+        <module name="13_hand_mybatis_01" />
+        <module name="14_hand_mybatis_02" />
       </profile>
     </annotationProcessing>
   </component>

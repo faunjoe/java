@@ -1,6 +1,7 @@
 package com.kaikeba.dao;
 
 import com.kaikeba.beans.Dept;
+import org.apache.ibatis.annotations.Select;
 
 import java.util.List;
 
@@ -10,6 +11,7 @@ import java.util.List;
  */
 public interface DeptMapper {
 
+    @Select("")
     public List<Dept> deptFind(String param);
     public List<Dept> deptFind2(String param);
 }

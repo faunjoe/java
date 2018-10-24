@@ -37,7 +37,7 @@ public class DeptMapperTest {
         try {
             DeptMapper dao = session.getMapper(DeptMapper.class);
             Dept dept = dao.deptFindById(10);
-            System.out.println();
+            System.out.println(dept);
         } catch (Exception ex) {
             ex.printStackTrace();
         }

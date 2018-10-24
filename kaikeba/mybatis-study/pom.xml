@@ -20,6 +20,10 @@
         <module>08_mybatis_map_resultmap</module>
         <module>09_mybatis_mapper_dynamic_sql</module>
         <module>10_mybatis_one_to_many_1</module>
+        <module>11_mybatis_one_to_many_2</module>
+        <module>12_mybatis_many_to_one_1</module>
+        <module>13_hand_mybatis_01</module>
+        <module>14_hand_mybatis_02</module>
     </modules>
 
 

@@ -1,0 +1,6 @@
+
+\squid:S1854";Remove this useless assignment to local variable "handler".(ƒÂÌ¯úÿÿÿÿ8’ŒóË,
+Esquid:S1905"$Remove this unnecessary cast to "E".(Øñšœÿÿÿÿÿ8’ŒóË,
+Msquid:S1481",Remove this unused "handler" local variable.(ƒÂÌ¯úÿÿÿÿ8’ŒóË,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÆêæ8’ŒóË,

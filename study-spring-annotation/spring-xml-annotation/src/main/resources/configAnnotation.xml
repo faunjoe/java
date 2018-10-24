@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="userDao" class="com.faunjoe.dao.UserDao"/>
+    <bean id="user1Dao" class="com.faunjoe.dao.User1Dao"/>
+    <bean id="user2Dao" class="com.faunjoe.dao.User2Dao"/>
+    <bean id="userService" class="com.faunjoe.service.UserServiceImpl"/>
+</beans>

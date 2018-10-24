@@ -8,10 +8,13 @@
 --         select * from dept where dname=${value}
     </select>
 
-
+    <!--
+    #{} : 采用预编译方式,可以防止SQL注入
+    ${}:  采用直接赋值方式,无法阻止SQL注入攻击
+    -->
     <select id="deptFind2" resultType="dept">
         <!-- 动态指定读取表 可能是dept也可能dept2 -->
         <!--   select * from #{tableName}  -->
-        select *  from ${value}
+        select * from ${value}
     </select>
 </mapper>

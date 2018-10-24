@@ -1,0 +1,17 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÌá•8äÈšÍ,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(á˜ÆÒ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô‘±8 ÄÍ,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(›¿ıÌ
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õşÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß¾âÎ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö¯ËÌ8äÈšÍ,
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Üœšèıÿÿÿÿ

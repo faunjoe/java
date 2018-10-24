@@ -1,0 +1,8 @@
+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ïŠóºıÿÿÿÿ8»œà‡Ì,
+Ksquid:S1481"/Remove this unused "definition" local variable.(§“±¢8»œà‡Ì,
+Ksquid:S1481"0Remove this unused "beanFactory" local variable.(‘”Æ8»œà‡Ì,
+`squid:S1854"?Remove this useless assignment to local variable "classLoader".(Èøµÿÿÿÿÿ8»œà‡Ì,
+Zsquid:S1854">Remove this useless assignment to local variable "definition".(§“±¢8»œà‡Ì,
+Zsquid:S1854"?Remove this useless assignment to local variable "beanFactory".(‘”Æ8»œà‡Ì,
+Qsquid:S1481"0Remove this unused "classLoader" local variable.(Èøµÿÿÿÿÿ8»œà‡Ì,

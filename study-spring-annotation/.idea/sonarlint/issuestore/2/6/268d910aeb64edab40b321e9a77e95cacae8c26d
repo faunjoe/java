@@ -1,0 +1,10 @@
+
+‚squid:S1450"aRemove the "applicationContext" field and declare it as a local variable in the relevant methods.(î‡²şÿÿÿÿ8³ÿ®ƒÍ,
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ8³ÿ®ƒÍ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÑ£Ãüÿÿÿÿ8³ÿ®ƒÍ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¯Ûÿÿÿÿÿ8³ÿ®ƒÍ,
+Wsquid:S1068"6Remove this unused "applicationContext" private field.(î‡²şÿÿÿÿ8³ÿ®ƒÍ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ÖÓƒ8³ÿ®ƒÍ,

@@ -1,0 +1,13 @@
+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÓÜì×ÿÿÿÿÿ8ÌÀùıè,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿŒÏÊ8ÌÀùıè,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şù­8ÌÀùıè,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÌÀùıè,
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¼ßğ¥8ÌÀùıè,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÌÀùıè,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹âö¸8ÌÀùıè,
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(áÑ¨û8ÌÀùıè,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÌÀùıè,

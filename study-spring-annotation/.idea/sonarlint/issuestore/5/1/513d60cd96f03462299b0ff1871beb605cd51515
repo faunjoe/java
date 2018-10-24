@@ -1,0 +1,15 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÜ‹8•Õ¦±Ì,
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(Ÿæ¹îøÿÿÿÿ8•Õ¦±Ì,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8•Õ¦±Ì,
+Xsquid:S1481"7Remove this unused "annotationMetadata" local variable.(ÄÍñãùÿÿÿÿ8•Õ¦±Ì,
+Nsquid:S1481"-Remove this unused "resource" local variable.(éˆç•ùÿÿÿÿ8•Õ¦±Ì,
+Osquid:S1481"3Remove this unused "superClassName" local variable.(¯ø»ş8•Õ¦±Ì,
+Qsquid:S1481"5Remove this unused "memberClassNames" local variable.(ÚŠ×¸8•Õ¦±Ì,
+Tsquid:S1481"3Remove this unused "interfaceNames" local variable.(Ó“ñÿûÿÿÿÿ8•Õ¦±Ì,
+csquid:S1854"BRemove this useless assignment to local variable "interfaceNames".(Ó“ñÿûÿÿÿÿ8•Õ¦±Ì,
+`squid:S1854"DRemove this useless assignment to local variable "memberClassNames".(ÚŠ×¸8•Õ¦±Ì,
+^squid:S1854"BRemove this useless assignment to local variable "superClassName".(¯ø»ş8•Õ¦±Ì,
+]squid:S1854"<Remove this useless assignment to local variable "resource".(éˆç•ùÿÿÿÿ8•Õ¦±Ì,
+gsquid:S1854"FRemove this useless assignment to local variable "annotationMetadata".(ÄÍñãùÿÿÿÿ8•Õ¦±Ì,

@@ -1,0 +1,10 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þ¦Ì“úÿÿÿÿ
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ž·ã8”çüÌ,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8”çüÌ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ôì8”çüÌ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ó´üÿÿÿÿ8”çüÌ,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8”çüÌ,
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ÊúÙ8”çüÌ,
