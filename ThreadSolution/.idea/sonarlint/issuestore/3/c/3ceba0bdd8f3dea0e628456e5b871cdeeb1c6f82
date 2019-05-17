@@ -1,0 +1,14 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ñ¼ä†û,
+Msquid:S1602",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8Æ»ã†û,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹õ¨â8Æ»ã†û,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•“¾¦8ÛÜ†û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8Æ»ã†û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8˜¦Û†û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹üéöúÿÿÿÿ8ÛÜ†û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ñ¼ä†û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜¦Û†û,

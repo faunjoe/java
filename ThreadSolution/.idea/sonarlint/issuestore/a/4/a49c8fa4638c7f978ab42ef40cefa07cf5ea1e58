@@ -1,0 +1,14 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ô‡«²û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ş­Ïøÿÿÿÿ8Åâ«²û,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ŠÜı”ùÿÿÿÿ8Ø¾¨²û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Åâ«²û,
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬¡·ıÿÿÿÿ8ô‡«²û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Åâ«²û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹Êÿÿÿÿÿ8Ø¾¨²û,
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬¡·ıÿÿÿÿ8Åâ«²û,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(éş®8Ø¾¨²û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô‡«²û,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¤Øê°8Åâ«²û,

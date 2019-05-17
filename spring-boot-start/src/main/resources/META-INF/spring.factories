@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = \
+  com.faunjoe.demo.springbootstart.autoconfigure.PersonAutoConfiguration

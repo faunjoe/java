@@ -1,0 +1,10 @@
+
+Nsquid:S1444"2Make this "public static idComparator" field final(ú²¾‰8–ğ·ûû,
+‹"squid:ClassVariableVisibilityCheck"XMake idComparator a static final constant or non-public and provide accessors if needed.(ú²¾‰8–ğ·ûû,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ÍÒ°úÿÿÿÿ8–ğ·ûû,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(øëÁ¾8–ğ·ûû,
+Dsquid:S1604"(Make this anonymous inner class a lambda(ú²¾‰8…¹ûû,
+Bsquid:S2129"!Remove this "Integer" constructor(ÜËƒŸüÿÿÿÿ8¿ë¸ûû,
+Gsquid:S1905"&Remove this unnecessary cast to "int".(×©»Òùÿÿÿÿ8¡Ãûû,

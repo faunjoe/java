@@ -1,0 +1,13 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ˆÕöüÿÿÿÿ8×¶³‡û,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¾°ú8ˆ€¬‡û,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¾°ú8«ð°‡û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÅÃ«‡û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ˆÕöüÿÿÿÿ8Çý²‡û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÅÃ«‡û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8’Æ¯‡û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8’Æ¯‡û,

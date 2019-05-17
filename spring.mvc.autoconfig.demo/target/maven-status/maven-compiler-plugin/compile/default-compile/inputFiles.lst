@@ -1,0 +1,5 @@
+/Users/faunjoe/MyCode/GitHub/java/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/autoconfig/AutoConfigDispatcherServletInitializer.java
+/Users/faunjoe/MyCode/GitHub/java/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/annotation/ConditionalOnClass.java
+/Users/faunjoe/MyCode/GitHub/java/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/autoconfig/SpringWebMvcConfiguration.java
+/Users/faunjoe/MyCode/GitHub/java/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/annotation/OnClassCondition.java
+/Users/faunjoe/MyCode/GitHub/java/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/controller/DemoController.java

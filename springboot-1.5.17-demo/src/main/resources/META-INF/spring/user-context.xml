@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+    <bean id="user" class="com.springboot.example.springboot15.demo.model.User">
+        <property name="age" value="15"/>
+        <property name="firstName" value="aijun"/>
+        <property name="lastName" value="fu"/>
+        <property name="tel" value="138888888"/>
+    </bean>
+</beans>

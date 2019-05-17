@@ -1,0 +1,5 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(œê×ƒùÿÿÿÿ
+Rsquid:S1854"8Remove this useless assignment to local variable "type".(‘æˆçúÿÿÿÿ
+Jsquid:S1481")Remove this unused "type" local variable.(ÌÕ§Üùÿÿÿÿ8ŒçÇ­ú,

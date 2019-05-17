@@ -1,0 +1,11 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(·–Öè
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(·–Öè
+vsquid:UselessImportCheck"ORemove this unused import 'com.fasterxml.jackson.databind.Module.SetupContext'.(µÍ´’üÿÿÿÿ
+wsquid:UselessImportCheck"PRemove this unused import 'org.springframework.test.web.servlet.RequestBuilder'.(É¢µáùÿÿÿÿ

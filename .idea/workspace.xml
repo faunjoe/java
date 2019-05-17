@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c66f0951-db05-4656-b389-5389d787e9d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/.idea/dictionaries/faunjoe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/collections/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/collections/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/interrupt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/join/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/join/ThreadJoin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/join/ThreadJoin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/synchronize/SychronizedStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/synchronize/SychronizedStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/synchronize/SynchronizedRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/synchronize/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/synchronize/SynchronizedThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseGraceful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseGraceful1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseGraceful2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadSolution/src/main/java/com/faunjoe/thread/threadclose/ThreadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/.idea/dictionaries/faunjoe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/CaptureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/FaunjoeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/aa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/collections/enummap/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/collections/enummap/EnumMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/collections/priorityqueue/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/collections/priorityqueue/PriorityQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/future/AsynFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/future/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/future/FutureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/future/FutureTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/future/SyncInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/future/SyncInvoker1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/immutable/ImmutableClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/immutable/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/immutable/UsePersonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/ObserverClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/observerrunnable/LifeCycleListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/observerrunnable/ObservableRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/observerrunnable/ThreadLifeCycleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/observersubject/observerrunnable/ThreadLifeCycleObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/readwritelock/ReadWritLockClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/readwritelock/ReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/readwritelock/ReaderWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/readwritelock/SharedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/readwritelock/WriterWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/singleton/SingletonObject7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/suspension/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/suspension/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/suspension/RequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/suspension/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/designpattern/suspension/SuspensionClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/streams/StreamDebug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/Hook/ThreadHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/customlock/BooleanLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/customlock/BooleanLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/customlock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/daemon/DaemonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/daemon/DaemonThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/exception/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/exception/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/exception/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/exception/ThreadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/executor/ThreadPoolExecutorBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/join/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/join/ThreadJoin1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/join/ThreadJoin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/simplepool/SimpleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/simplepool/SimpleThreadPool2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/ProduceConsumerVersion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/ProduceConsumerVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/ProduceConsumerVersion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/ProduceConsumerVersion4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SychronizedStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SychronizedStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SynchronizedRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SynchronizedThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/gate/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/gate/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/gate/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/thread.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseGraceful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseGraceful1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseGraceful2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/ThreadLocalSimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/ThreadLocalSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/ThreadLocalSimulatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/ThreadLocalcomplexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context/ContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context/QueryFromHttpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context1/ActionContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context1/ContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context1/ExecutionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context1/QueryFromDBAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/threadlocal/context1/QueryFromHttpAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/Semaphore/SemaphoreExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/Semaphore/SemaphoreExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/Semaphore/SemaphoreExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/Semaphore/SemaphoreExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicBooleanFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicBooleanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicIntegerArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicIntegerDetailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicIntegerDetailTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicIntegerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicIntegerTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/AtomicStampedReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/CompareAndSetLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/atomic/GetLockException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/condition/ConditionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/condition/ConditionExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/countdownlatch/CountDownLatchExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/cyclicbarrier/CyclicBarrierExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/cyclicbarrier/CyclicBarrierExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/cyclicbarrier/CyclicBarrierExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/cyclicbarrier/CyclicBarrierExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/cyclicbarrier/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/exchanger/ExchangerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/forkjoin/ForkJoinRecursiveAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/forkjoin/ForkJoinRecursiveTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/lock/MyLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/lock/MyLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/lock/ReadWriteLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/lock/ReentrantLockExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/lock/ReentrantLockExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/lock/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/stampedlock/StampedLockExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/util/concurrent/stampedlock/StampedLockExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/volatiled/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/waitset/WaitSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-solution/src/main/java/com/faunjoe/solution/java/thread/waitset/WaitSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/mvc-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controlle/test/TestMockMVC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controller/ItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controller/RestItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controller/converter/DateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/DBSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/DBSocketImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/GBSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/GBSocketImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/GJBZSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/SockerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/TestAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/Iphone6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/IphoneDecorate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/TestDecorate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/exception/CustomExcetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/exception/resolver/CustomExceptionResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/ItemMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/ItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/OrdersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/ItemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/ItemQueryVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/OrdersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/UserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/service/ItemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/service/ItemServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/resources/spring/applicationContext-tx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kkb-spring-mvc/mvc-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/SpringBootStartApplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/autoconfigure/PersonAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/controller/PersonRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/FaunjoeApplicationContextAware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/FaunjoeEventPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/MsgEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/MsgEventHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/PrintListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-start/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/annotation/ConditionalOnClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/annotation/OnClassCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/autoconfig/AutoConfigDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/autoconfig/SpringWebMvcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring.mvc.autoconfig.demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/bootstrap/AnnotationConfigBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/bootstrap/XmlConfigBootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/config/UserConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/CommonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/HTMLRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/JSONRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/XMLRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/resources/META-INF/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/resources/META-INF/spring/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/main/resources/META-INF/spring/user-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/test/java/com/springboot/example/springboot15/demo/EnvironmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/test/java/com/springboot/example/springboot15/demo/PersonIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-1.5.17-demo/src/test/java/com/springboot/example/springboot15/demo/configuration/PersonConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-demo/src/main/java/com/springboot/example/springbootdemo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-demo/src/main/java/com/springboot/example/springbootdemo/model/User.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66f0951-db05-4656-b389-5389d787e9d3" name="Default Changelist" comment="" />
+      <created>1551433869760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551433869760</updated>
+      <workItem from="1551433871161" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="SBT Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

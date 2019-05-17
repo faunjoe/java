@@ -1,0 +1,5 @@
+com/faunjoe/spring/webmvc/autoconfig/AutoConfigDispatcherServletInitializer.class
+com/faunjoe/spring/webmvc/autoconfig/SpringWebMvcConfiguration.class
+com/faunjoe/spring/webmvc/annotation/OnClassCondition.class
+com/faunjoe/spring/webmvc/annotation/ConditionalOnClass.class
+com/faunjoe/spring/webmvc/controller/DemoController.class

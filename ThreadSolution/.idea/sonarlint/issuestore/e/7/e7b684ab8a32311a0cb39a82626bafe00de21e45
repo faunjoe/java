@@ -1,0 +1,13 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(º§•üÿÿÿÿÿ8À¡Å°û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8À¡Å°û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À¡Å°û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(º§•üÿÿÿÿÿ8á®°û,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¬©­°û,
+[squid:UnusedPrivateMethod",Remove this unused private "ticket1" method.(Ó›Ï¿ÿÿÿÿÿ8ä·Å°û,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Â×‰¾üÿÿÿÿ8ù»§°û,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¬©­°û,
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Ÿ›äùÿÿÿÿ8¬©­°û,
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Ÿ›äùÿÿÿÿ8À¡Å°û,
