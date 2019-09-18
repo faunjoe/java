@@ -1,16 +1,16 @@
 
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÎñÀ†û,
-Msquid:S1602",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8¯Ö¶†û,
-Msquid:S1602",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8äÉ†û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8äß¾†û,
-Msquid:S1602",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8äß¾†û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8äÉ†û,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹õ¨â8ÒÜÎ†û,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎñÀ†û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8¯Ö¶†û,
-Hsquid:S1602",Remove useless curly braces around statement(ÈÕâü8ßï´†û,
-Msquid:S1602",Remove useless curly braces around statement(Òáî™úÿÿÿÿ8äÉ†û,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8äß¾†û,
+Osquid:S1602",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8äÉ†û,
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¹õ¨â8ÒÜÎ†û,
+Osquid:S1602",Remove useless curly braces around statement(Òáî™úÿÿÿÿ8äÉ†û,
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8¯Ö¶†û,
+Osquid:S1602%",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8äß¾†û,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ßò¾ÿÿÿÿÿ8äÉ†û,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÎñÀ†û,
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÎñÀ†û,
+Jsquid:S1602",Remove useless curly braces around statement(ÈÕâü8ßï´†û,
+Osquid:S1602",Remove useless curly braces around statement(Äîÿ›şÿÿÿÿ8¯Ö¶†û,

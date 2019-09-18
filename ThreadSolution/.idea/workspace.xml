@@ -2,133 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c25979-1c78-4ebd-9930-67514be42cfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/faunjoe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/interrupt/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseGraceful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseGraceful1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/threadclose/ThreadCloseGraceful2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/faunjoe/thread/threadclose/ThreadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/.idea/dictionaries/faunjoe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/collections/enummap/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/collections/enummap/EnumMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/collections/priorityqueue/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/collections/priorityqueue/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/streams/StreamDebug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/interrupt/ThreadInterrupt3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/join/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/join/ThreadJoin1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/join/ThreadJoin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SychronizedStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SychronizedStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SynchronizedRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SynchronizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/synchronize/SynchronizedThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseGraceful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseGraceful1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadCloseGraceful2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/thread/threadclose/ThreadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/mvc-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controlle/test/TestMockMVC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controller/RestItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/controller/converter/DateConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/DBSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/DBSocketImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/GBSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/GBSocketImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/GJBZSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/SockerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/adapter/TestAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/Iphone6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/IphoneDecorate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/design_pattern/decorate/TestDecorate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/exception/CustomExcetion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/exception/resolver/CustomExceptionResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/ItemMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/ItemMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/OrdersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/OrdersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/ItemExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/ItemQueryVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/OrdersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/po/UserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/service/ItemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/java/com/kkb/ssm/service/ItemServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/resources/spring/applicationContext-tx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kkb-spring-mvc/mvc-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/SpringBootStartApplication1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/autoconfigure/PersonAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/controller/PersonRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/FaunjoeApplicationContextAware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/FaunjoeEventPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/MsgEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/MsgEventHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/java/com/faunjoe/demo/springbootstart/event/PrintListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-start/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/annotation/ConditionalOnClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/annotation/OnClassCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/autoconfig/AutoConfigDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/autoconfig/SpringWebMvcConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/src/main/java/com/faunjoe/spring/webmvc/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring.mvc.autoconfig.demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/bootstrap/AnnotationConfigBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/bootstrap/XmlConfigBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/config/UserConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/CommonBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/HTMLRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/JSONRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/PersonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/controller/XMLRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/java/com/springboot/example/springboot15/demo/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/resources/META-INF/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/resources/META-INF/spring/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/main/resources/META-INF/spring/user-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/test/java/com/springboot/example/springboot15/demo/EnvironmentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/test/java/com/springboot/example/springboot15/demo/PersonIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-1.5.17-demo/src/test/java/com/springboot/example/springboot15/demo/configuration/PersonConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-demo/src/main/java/com/springboot/example/springbootdemo/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-demo/src/main/java/com/springboot/example/springbootdemo/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThreadSolution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-solution/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-solution/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/HtmlString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/HtmlString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/RegularFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/RegularFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../java-solution/src/main/java/com/faunjoe/solution/java/regular/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -138,8 +18,104 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStaticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="method#run#0;class#SynchronizedRunnable#0" />
+                <element signature="method#ticket#0;class#SynchronizedRunnable#0" />
+                <element signature="method#ticket1#0;class#SynchronizedRunnable#0" />
+                <element signature="method#main#0;class#SynchronizedRunnable#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedThis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="method#m1#0;class#ThisLock#0;class#SynchronizedThis#0" />
+                <element signature="method#m2#0;class#ThisLock#0;class#SynchronizedThis#0" />
+                <element signature="method#m3#0;class#ThisLock#0;class#SynchronizedThis#0" />
+                <element signature="method#m4#0;class#ThisLock#0;class#SynchronizedThis#0" />
+                <element signature="method#main#0;class#SynchronizedThis#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/PriorityQueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStatic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -199,11 +175,17 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="28" />
     <option name="y" value="23" />
     <option name="width" value="1412" />
-    <option name="height" value="877" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -244,18 +226,56 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ThreadSolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThreadSolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="join" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThreadSolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ThreadSolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThreadSolution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadclose" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545200321100" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
@@ -362,12 +382,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -397,16 +419,18 @@
       <updated>1544858987486</updated>
       <workItem from="1544858991816" duration="10918000" />
       <workItem from="1544949107913" duration="9183000" />
+      <workItem from="1562662147454" duration="1217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20101000" />
+    <option name="totallyTimeSpent" value="21318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="23" width="1412" height="877" extended-state="0" />
+    <frame x="28" y="23" width="1412" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28832117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21710527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -414,6 +438,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3881579" />
@@ -434,10 +460,11 @@
       <window_info anchor="bottom" id="JRebel Executor" order="17" />
       <window_info anchor="bottom" id="JRebel Console" order="18" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="19" />
+      <window_info anchor="right" id="RestServices" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32967836" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -579,25 +606,6 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/PriorityQueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="11" selection-end-line="60" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/interrupt/ThreadInterrupt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -636,16 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="19" column="36" lean-forward="true" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -657,54 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="9" lean-forward="true" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" lean-forward="true" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="66" lean-forward="true" selection-end-line="66" />
-          <folding>
-            <element signature="method#run#0;class#SynchronizedRunnable#0" />
-            <element signature="method#ticket#0;class#SynchronizedRunnable#0" />
-            <element signature="method#ticket1#0;class#SynchronizedRunnable#0" />
-            <element signature="method#main#0;class#SynchronizedRunnable#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedThis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-          <folding>
-            <element signature="method#m1#0;class#ThisLock#0;class#SynchronizedThis#0" />
-            <element signature="method#m2#0;class#ThisLock#0;class#SynchronizedThis#0" />
-            <element signature="method#m3#0;class#ThisLock#0;class#SynchronizedThis#0" />
-            <element signature="method#m4#0;class#ThisLock#0;class#SynchronizedThis#0" />
-            <element signature="method#main#0;class#SynchronizedThis#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,6 +693,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/join/ThreadJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/collections/PriorityQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SychronizedStaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="method#run#0;class#SynchronizedRunnable#0" />
+            <element signature="method#ticket#0;class#SynchronizedRunnable#0" />
+            <element signature="method#ticket1#0;class#SynchronizedRunnable#0" />
+            <element signature="method#main#0;class#SynchronizedRunnable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/faunjoe/thread/synchronize/SynchronizedThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="method#m1#0;class#ThisLock#0;class#SynchronizedThis#0" />
+            <element signature="method#m2#0;class#ThisLock#0;class#SynchronizedThis#0" />
+            <element signature="method#m3#0;class#ThisLock#0;class#SynchronizedThis#0" />
+            <element signature="method#m4#0;class#ThisLock#0;class#SynchronizedThis#0" />
+            <element signature="method#main#0;class#SynchronizedThis#0" />
+          </folding>
         </state>
       </provider>
     </entry>

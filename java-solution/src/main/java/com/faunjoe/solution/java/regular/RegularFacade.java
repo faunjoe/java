@@ -1,5 +1,7 @@
 package com.faunjoe.solution.java.regular;
 
+import jdk.nashorn.internal.runtime.regexp.joni.Regex;
+
 import java.util.HashSet;
 import java.util.Set;
 import java.util.regex.Matcher;
@@ -11,7 +13,7 @@ import java.util.regex.Pattern;
  */
 public class RegularFacade {
 
-    public static Set<String> getImgSrcList(String html){
+    public static Set<String> getImgSrcList(String html) {
         Set<String> pics = new HashSet<>();
         String img = "";
         Pattern p_image;
@@ -41,5 +43,42 @@ public class RegularFacade {
             }
         }
         return pics;
+    }
+
+
+    public static String getChinese(String html) {
+        StringBuilder sb = new StringBuilder();
+        String regEx_ch = "[\\u4e00-\\u9fa5,，。]";
+        String img = "";
+        Pattern p_chinese;
+        Matcher m_chinese;
+        p_chinese = Pattern.compile
+                (regEx_ch, Pattern.CASE_INSENSITIVE);
+        m_chinese = p_chinese.matcher(html);
+
+        while (m_chinese.find()) {
+            // 得到<img />数据
+            img = m_chinese.group();
+            sb.append(img);
+        }
+        return sb.toString();
+    }
+
+    public static String getFilteHtml(String htmlStr) {
+        //String regEx_style = "<style[^>]*?>[\\s\\S]*?<\\/style>"; //定义style的正则表达式
+
+        //String regEx_script = "<script[^>]*?>[\\s\\S]*?<\\/script>"; //定义script的正则表达式
+
+        String regEx_html = "<img .*?>"; //定义HTML标签的正则表达式
+        //删除css
+        //htmlStr.replaceAll(regEx_style,"");//
+        //删除js
+        //htmlStr.replaceAll(regEx_script,"");
+        //删除js
+        //htmlStr.replaceAll(regEx_html,"");
+        htmlStr.replaceAll("<img .*?>","");
+
+
+        return htmlStr;
     }
 }

@@ -1,5 +1,5 @@
 
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€Ðï¯û,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8€Ðï¯û,
-dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Øö–çûÿÿÿÿ8€Ðï¯û,
-tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¹ç»ƒÿÿÿÿÿ8¡¥ë¯û,
+fsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Øö–çûÿÿÿÿ8€Ðï¯û,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8€Ðï¯û,
+vsquid:ModifiersOrderCheck	"EReorder the modifiers to comply with the Java Language Specification.(¹ç»ƒÿÿÿÿÿ8¡¥ë¯û,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€Ðï¯û,

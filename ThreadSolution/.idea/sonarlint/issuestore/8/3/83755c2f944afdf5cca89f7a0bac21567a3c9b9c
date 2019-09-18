@@ -1,22 +1,22 @@
 
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¹ÎÞ°û,
-_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8Ô—á°û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8€Š—±û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8€Š—±û,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€Š—±û,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ô—á°û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8Ô—á°û,
-_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8©þ™±û,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ô—á°û,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8€Š—±û,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8¤·ß°û,
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8€Š—±û,
-_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8¹ÎÞ°û,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€Š—±û,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹ÎÞ°û,
-ksquid:S00116"ORename this field "LOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž±©p8×Ô•±û,
-_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8Û¨™±û,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¹ÎÞ°û,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8€Š—±û,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ô—á°û,
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8€Š—±û,
+dsquid:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹ÎÞ°û,
+asquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8©þ™±û,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8€Š—±û,
+asquid:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8¹ÎÞ°û,
+asquid:S2276/"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8Û¨™±û,
+Fsquid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8€Š—±û,
+msquid:S00116"ORename this field "LOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž±©p8×Ô•±û,
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8Ô—á°û,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€Š—±û,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ô—á°û,
+asquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(˜äÏ®8Ô—á°û,
+dsquid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€Š—±û,
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8¤·ß°û,
